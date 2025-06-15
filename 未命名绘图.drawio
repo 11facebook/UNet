@@ -16,67 +16,6 @@
         <mxCell id="lmsV92izv7Ywu7_gXsOz-28" value="5，5，2，10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="940" y="500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-53" value="2,1,7,8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="520.9100000000001" y="620" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-62" value="1,2,7,8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640.9100000000001" y="620" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.361;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670.9099999999999" y="560" as="sourcePoint" />
-            <mxPoint x="766.1799999999998" y="628.6100000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-65" value="剪枝" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmsV92izv7Ywu7_gXsOz-64">
-          <mxGeometry x="-0.1389" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.634;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.842;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="lmsV92izv7Ywu7_gXsOz-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="659.8499999999999" y="593.74" as="sourcePoint" />
-            <mxPoint x="760.9099999999999" y="475" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.681;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.008;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="lmsV92izv7Ywu7_gXsOz-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="601.4699999999998" y="586.25" as="sourcePoint" />
-            <mxPoint x="570.9100000000001" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-68" value="1,1,8,8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="643.99" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-69" value="1,3,8,10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="700" y="663.99" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.143;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lmsV92izv7Ywu7_gXsOz-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440.9100000000001" y="690" as="sourcePoint" />
-            <mxPoint x="495.9100000000001" y="719.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-71" value="1,1,8,8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="590" y="653.99" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.649;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.338;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lmsV92izv7Ywu7_gXsOz-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600.9100000000001" y="730" as="sourcePoint" />
-            <mxPoint x="636.3400000000001" y="733.9899999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.857;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lmsV92izv7Ywu7_gXsOz-62" target="lmsV92izv7Ywu7_gXsOz-69">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="663.99" as="sourcePoint" />
-            <mxPoint x="730" y="613.99" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lmsV92izv7Ywu7_gXsOz-74" value="剪枝" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lmsV92izv7Ywu7_gXsOz-73">
-          <mxGeometry x="-0.5119" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lmsV92izv7Ywu7_gXsOz-77" value="x,y,strp_count,value&lt;div&gt;分别代表蛇头的x坐标&lt;/div&gt;&lt;div&gt;y坐标 ，已经走过的距离，启发式函数值&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="130" height="130" as="geometry" />
         </mxCell>
